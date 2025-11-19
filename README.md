@@ -1,4 +1,4 @@
-![Rainbow Bar](https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif)
+![Rainbow Bar](rainbow.gif)
 - 👋 Hi, I’m @antimatter137
 - 👀 I’m interested in web development and funny projects
 - 🌱 I’m currently learning java
