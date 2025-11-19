@@ -1,4 +1,4 @@
-![Readme Card](https://github-readme-stats.vercel.app/api?username=antimatter137&layout=compact&theme=radical&show_icons=true&rank_icon=github) ![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter137&theme=radical)
+![Rainbow Bar](https://cloudblogger.co.in/giphy-3/) ![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter137&theme=radical)
 - 👋 Hi, I’m @antimatter137
 - 👀 I’m interested in web development and funny projects
 - 🌱 I’m currently learning java
