@@ -1,4 +1,4 @@
-![Rainbow Bar](https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif) ![Readme Card2](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter137&theme=radical)
+![Rainbow Bar](https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif)
 - 👋 Hi, I’m @antimatter137
 - 👀 I’m interested in web development and funny projects
 - 🌱 I’m currently learning java
