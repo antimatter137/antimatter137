@@ -1,4 +1,3 @@
-![Rainbow Bar](rainbow.gif)
 - 👋 Hi, I’m @antimatter137
 - 👀 I’m interested in web development and funny projects
 - 🌱 I’m currently learning java
