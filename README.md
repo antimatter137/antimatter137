@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @antimatter137
-- 👀 I’m interested in web development and funny projects
-- 🌱 I’m currently learning java
+- 👀 I’m interested in shells, learning, and making cool things
+- 🌱 I’m currently learning C
 - 📫 How to reach me: antimatter137@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ I know: bash, html5, css5, javascript, and python
 - [My site](https://antimatter137.dev)
 
 <!---
